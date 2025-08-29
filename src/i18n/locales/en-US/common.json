@@ -1,0 +1,16 @@
+{
+    "cepSearch": {
+        "informationSearch": "Information Search",
+        "searchAddressByCep": "Search Address by ZIP Code",
+        "enterCep": "Enter ZIP Code (numbers only):",
+        "SearchingForAddress": "Searching for address...",
+        "AddressFound": "Address found!",
+        "searchAddress": "Search Address",
+        "CopyFullAddress": "Copy Full Address",
+        "streetName": "Street:",
+        "neighborhoodName": "Neighborhood:",
+        "cityName": "City:",
+        "stateName": "State:",
+        "zipCodeName": "ZIP Code:"
+    }
+}
