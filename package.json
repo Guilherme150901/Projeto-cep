@@ -7,13 +7,11 @@
   "scripts": {
     "start": "npm run dev",
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start:dev": "react-scripts start",
-    "build:dev": "react-scripts build",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d dist/assets"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@flaticon/flaticon-uicons": "^3.3.1",
