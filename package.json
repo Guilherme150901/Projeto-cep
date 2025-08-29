@@ -13,8 +13,7 @@
     "start:dev": "react-scripts start",
     "build:dev": "react-scripts build",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d dist/assets"
   },
   "dependencies": {
     "@flaticon/flaticon-uicons": "^3.3.1",
