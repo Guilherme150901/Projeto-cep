@@ -43,7 +43,7 @@ Durante o desenvolvimento, também foi utilizado o **Yarn** como alternativa ao 
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/projeto-cep.git
+git clone https://github.com/Guilherme150901/Projeto-cep.git
 cd projeto-cep
 ```
 
