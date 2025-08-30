@@ -7,10 +7,10 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(to bottom, #87ceeb 0%, #3b6ea5 100%);
-  min-height: 100vh;
+  min-height: 101vh;
   padding: 20px;
   overflow-x: hidden;
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 
 .container {
