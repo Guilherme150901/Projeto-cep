@@ -105,7 +105,11 @@ export default function CepSearch() {
             </div>
           )}
 
-          {error && <div className="result erro">{error}</div>}
+          {error && (
+            <div className="result erro">
+              <img src={icons.alert} alt="icone de alerta" /> {error}
+            </div>
+          )}
 
           {resultCep && (
             <div className="result sucesso">

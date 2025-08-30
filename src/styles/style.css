@@ -184,6 +184,12 @@ input:hover {
 .result.erro {
   border-left-color: #ff6b6b;
   background: #ffe0e0;
+  font-weight: bold;
+}
+
+.result.erro img {
+  position: relative;
+  top: 3px;
 }
 
 .result.sucesso {

@@ -7,6 +7,7 @@ import zipCodeIcon from "./zipCode.png";
 import checkedIcon from "./checked.png";
 import copyIcon from "./copy.png";
 import streetIcon from "./street.png";
+import alertIcon from "./alert.png";
 
 export const icons = {
   checked: checkedIcon,
@@ -18,4 +19,5 @@ export const icons = {
   zipCode: zipCodeIcon,
   copy: copyIcon,
   street: streetIcon,
+  alert: alertIcon,
 };
