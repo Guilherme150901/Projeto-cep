@@ -213,7 +213,9 @@ input:hover {
 .icon-localization {
   width: 24px;
   height: 24px;
-  vertical-align: middle;
+  position: relative;
+  top: -1px;
+  margin-right: 4px;
 }
 
 .icon-checked {

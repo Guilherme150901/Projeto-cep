@@ -73,12 +73,14 @@ export default function CepSearch() {
       <div className="content">
         <div className="section">
           <h2>
-            <img
-              src={icons.localization}
-              alt="Ícone de localização"
-              className="icon-localization"
-            />
-            {translate("cepSearch.searchAddressByCep")}
+            <span>
+              <img
+                src={icons.localization}
+                alt="Ícone de localização"
+                className="icon-localization"
+              />
+              {translate("cepSearch.searchAddressByCep")}
+            </span>
           </h2>
 
           <div className="input-group">
