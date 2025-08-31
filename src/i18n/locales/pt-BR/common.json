@@ -1,16 +1,16 @@
 {
-    "cepSearch": {
-        "informationSearch": "Buscador de Informações",
-        "searchAddressByCep": "Buscar Endereço por CEP",
-        "enterCep": "Digite o CEP (apenas números):",
-        "AddressFound": "Endereço encontrado!",
-        "searchAddress": "Buscar Endereço",
-        "SearchingForAddress": "Buscando endereço...",
-        "CopyFullAddress": "Copiar Endereço Completo",
-        "streetName": "Logradouro:",
-        "neighborhoodName": "Bairro:",
-        "cityName": "Cidade:",
-        "stateName": "Estado:",
-        "zipCodeName": "CEP:"
-    }
+  "cepSearch": {
+    "informationSearch": "Buscador de CEP",
+    "searchAddressByCep": "Consulta rápida de endereços",
+    "enterCep": "Insira um CEP válido para consultar o endereço:",
+    "AddressFound": "Endereço encontrado!",
+    "searchAddress": "Buscar Endereço",
+    "SearchingForAddress": "Buscando endereço...",
+    "CopyFullAddress": "Copiar Endereço Completo",
+    "streetName": "Logradouro:",
+    "neighborhoodName": "Bairro:",
+    "cityName": "Cidade:",
+    "stateName": "Estado:",
+    "zipCodeName": "CEP:"
+  }
 }
